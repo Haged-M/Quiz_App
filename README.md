@@ -24,3 +24,4 @@ A simple Flutter-based quiz application designed for an engaging and dynamic use
 <img src="assests/screen_shots/questions_screen.png" alt="Questions Screen" width="250" />
 <img src="assests/screen_shots/results_screen.png" alt="Results Screen" width="250" />
 
+# Quiz_App
