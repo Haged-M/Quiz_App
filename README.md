@@ -22,12 +22,12 @@ A simple Flutter-based quiz application designed for an engaging and dynamic use
 
 <img src="assets/images/screen_shots/home_screen.png" alt="Home Screen" width="250" />
 
-*Home Screen displaying recent expenses.*
+*Home Screen.*
 
 <img src="assets/images/screen_shots/questions_screen.png" alt="Questions Screen" width="250" />
 
-*Home Screen displaying recent expenses.*
+*Home Screen displaying 1uestions.*
 
 <img src="assets/images/screen_shots/result_screen.png" alt="Results Screen" width="250" />
 
-*Home Screen displaying recent expenses.*
+*Home Screen displaying results.*
