@@ -20,8 +20,14 @@ A simple Flutter-based quiz application designed for an engaging and dynamic use
 
 ## 📸 Screenshots
 
-<img src="assets/screen_shots/home_screen.png" alt="Home Screen" width="250" />
-<img src="assets/screen_shots/questions_screen.png" alt="Questions Screen" width="250" />
-<img src="assets/screen_shots/results_screen.png" alt="Results Screen" width="250" />
+<img src="assets/images/screen_shots/home_screen.png" alt="Home Screen" width="250" />
 
-# Quiz_App
+*Home Screen displaying recent expenses.*
+
+<img src="assets/images/screen_shots/questions_screen.png" alt="Questions Screen" width="250" />
+
+*Home Screen displaying recent expenses.*
+
+<img src="assets/images/screen_shots/result_screen.png" alt="Results Screen" width="250" />
+
+*Home Screen displaying recent expenses.*
